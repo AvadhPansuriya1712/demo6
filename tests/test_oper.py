@@ -11,4 +11,4 @@ def test_sub():
     assert (5-1)==4
     assert (3-1)==2
     assert (9-7)==2
-    
+    assert (7-5)==2
